@@ -13,5 +13,7 @@ The main contribution of the study included: 1) Using the Augmented approach for
 Augmented SBERT, Patent’s claims, RoBERTa, Classification, Hybrid model
 # See also
 USPTO PatentsView
+
 PatentsView API
+
 PatentsView Query Language
