@@ -9,3 +9,9 @@ The findings suggest the relevance of hybrid models to predict multi-label class
 Practical Implications: The presented framework provides a practical model for patent classification. In this study, we predict the class and subclass of the patent based on semantic claims similarity. The end-user interpretability of the results is one of the essential positive points of the model. 
 # Originality/Value:
 The main contribution of the study included: 1) Using the Augmented approach for fine-tuning SBERT by in-domain supervised patent claims data. 2) Improving results based on a hybrid model for patent classification. The best result of F1-score at the subclass level was > 69%) Proposing the practical model with high interpretability of results.
+# Index Terms
+Augmented SBERT, Patent’s claims, RoBERTa, Classification, Hybrid model
+# See also
+USPTO PatentsView
+PatentsView API
+PatentsView Query Language
