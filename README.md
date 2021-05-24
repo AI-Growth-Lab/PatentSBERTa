@@ -1,5 +1,5 @@
 # Patent-Classification
-Hybrid Model for Patent Classification using Augmented SBERT and KNN
+PatentSBERTa: A Deep NLP based Hybrid Model for Patent Distance and Classification using Augmented SBERT
 # Purpose: 
 This study aims to provide a hybrid approach for patent claim classification with Sentence-BERT (SBERT) and K Nearest Neighbours (KNN) and explicitly focuses on the patent’s claims. Patent classification is a multi-label classification task in which the number of labels can be greater than 640 at the subclass level. The proposed framework predicts individual input patent class and subclass based on finding top k semantic similarity patents. 
 # Design/Methodology/Approach: 
