@@ -5,7 +5,7 @@ PatentSBERTa was used for patent classification in this example. In order to tes
 
 - PatentSBERTa Model: https://huggingface.co/AI-Growth-Lab/PatentSBERTa
 - Patnet Dataset (1.5M): https://huggingface.co/datasets/AI-Growth-Lab/patents_claims_1.5m_traim_test
-- Patent Classification based on PatentSBERTa: 
+- Patent Classification based on PatentSBERTa: https://colab.research.google.com/github/AI-Growth-Lab/PatentSBERTa/blob/main/PatentSBERTa_Example_For_Patent_Classification.ipynb
 
 # Purpose: 
 This study aims to provide a hybrid approach for patent claim classification with Sentence-BERT (SBERT) and K Nearest Neighbours (KNN) and explicitly focuses on the patent’s claims. Patent classification is a multi-label classification task in which the number of labels can be greater than 640 at the subclass level. The proposed framework predicts individual input patent class and subclass based on finding top k semantic similarity patents. 
