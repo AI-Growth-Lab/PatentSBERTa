@@ -3,7 +3,10 @@ PatentSBERTa: A Deep NLP based Hybrid Model for Patent Distance and Classificati
 
 PatentSBERTa was used for patent classification in this example. In order to test the whole process of patent classification, we used only 100 patents' claims. You can access the entire dataset (around 1.5M) through the AI-Growth-Lab Huggingface profile. All steps are embedded in the notebook, and you can check them all.
 
-- [arXiv paper](https://arxiv.org/abs/2103.11933)
+# Citing & Authors
+Bekamiri, H., Hain, D. S., & Jurowetzki, R. (2024). PatentSBERTa: A deep NLP based hybrid model for patent distance and classification using augmented SBERT. Technological Forecasting and Social Change, 206, 123536.
+
+- [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0040162524003329)
 - [PatentSBERTa Model](https://huggingface.co/AI-Growth-Lab/PatentSBERTa)
 - [Patnet Dataset (1.5M)](https://huggingface.co/datasets/AI-Growth-Lab/patents_claims_1.5m_traim_test)
 - [Colab Demo: Patent Classification based on PatentSBERTa](https://colab.research.google.com/github/AI-Growth-Lab/PatentSBERTa/blob/main/PatentSBERTa_Example_For_Patent_Classification.ipynb)
